@@ -1,0 +1,13 @@
+{
+    "name": "hb/todolistcomposer",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hb\\Todolistcomposer\\": "src/"
+        }
+    },
+    "require": {
+        "twig/twig": "^3.4"
+    }
+}
